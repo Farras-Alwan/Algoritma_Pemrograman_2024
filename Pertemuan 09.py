@@ -9,3 +9,7 @@ except ZeroDivisionError :
     print("Tidak bisa membagi dengan nol")
 except Exception :
     print("Ekspresi tidak valid")
+    
+# Nama : Farras Alwan Putra Setyo
+# NIM : 2409076021
+# Prodi : Teknik Elektro
